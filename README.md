@@ -10,7 +10,9 @@
 Python3, NumPy, Pandas and Matplotlib libraries 
 
 ## Problem Statement
-Find data and implement classification algorithms (more algorithms you try, the better).  
+- Find data and implement classification algorithms (more algorithms you try, the better). 
+-  Remove ‘Y’ column form your classification data, and implement k-mean clustering algorithm on any two columns of the data. Make sure you plot the points before and after clustering. 
+
 
 ## Dataset
 Pistachio Dataset; 2 Class - Kirmizi and Siirt Pistachio, 16 and 28 Features
