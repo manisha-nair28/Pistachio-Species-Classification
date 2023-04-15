@@ -1,5 +1,5 @@
 # Pistachio-Species-Classification
- Implementation of classification algorithms to classify pistachio species
+ Implementation of classification algorithms and K-mean clustering to classify pistachio species.
 
 <i>This project constitutes the second part of my assignment for The Machine Learning & Deep Learning Show 2022</i>
 
@@ -20,6 +20,7 @@ Pistachio Dataset; 2 Class - Kirmizi and Siirt Pistachio, 16 and 28 Features
 [Link to the source of the dataset](https://www.kaggle.com/datasets/muratkokludataset/pistachio-dataset)
 
 ## Code
+### Part 1
 I’ve used a dataset that contains different features of 2 different species of pistachios for the classification model. The different  classification algorithms used:
 - Logistic Regression
 - Naive Bayes Classification
@@ -27,9 +28,16 @@ I’ve used a dataset that contains different features of 2 different species of
 - Random Forest
 - Linear Support Vector Machine
 
+Run [`Pistachio.ipynb`](https://github.com/manisha-nair28/Pistachio-Species-Classification/blob/main/Pistachio.ipynb)  script.
+
+### Part 2
+I've used two columns "perimeter " and "roundness" to implement the k means clustering algorithm.
+Run [`Pistachio_Clustering.ipynb`](https://github.com/manisha-nair28/Pistachio-Species-Classification/blob/main/Pistachio_Clustering.ipynb) script.
+
 ## Contributing
 Contributions are always welcome!
 See `contributing.md` for ways to get started.
+
 Please adhere to this project's `code of conduct`.
 
 ## Authors
